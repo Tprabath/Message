@@ -16,9 +16,8 @@
 > `🎉 When you solve this code, you will get all the information for the next steps in the document.☺️`
 
 >[!IMPORTANT]
-> 🚀 Download Help Document [Click here](https://docs.google.com/document/d/1WQxmWQVkBMUpg1s9-LOdKDrienSl_Z8U/edit?usp=drivesdk&ouid=109281710848341361111&rtpof=true&sd=true)
->
-> `Morse Code -> Binary code -> Message`
+> 🚀 Download Help Document [Click here](https://docs.google.com/document/d/1WQxmWQVkBMUpg1s9-LOdKDrienSl_Z8U/edit?usp=drivesdk&ouid=109281710848341361111&rtpof=true&sd=true)<br>
+`Morse Code -> Binary code -> Message`
 
 
 #### 📝 Download Encoded Message [Click here](https://drive.google.com/file/d/1UsziH2aQ4sZvPDSqFxdztruc0274Zgw8/view?usp=drivesdk)

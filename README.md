@@ -2,7 +2,13 @@
 ***
 ### 🎉 පහත සඳහන් කේතය විකේතනය කර ලැබෙන link එකෙන් ඔබගේ පණිවිඩය ලබාගන්න 🤗
 
-***
-### [Download Encoded Message](https://drive.google.com/file/d/1UsziH2aQ4sZvPDSqFxdztruc0274Zgw8/view?usp=drivesdk)
+![image](/image.jpeg)
 
-![image]()
+> [!TIP]
+> `ඔබට මෙම කේතය විසදූවිට ලැබෙන Document එකෙන් ඉදිරි පියවරයන් සදහා සියලු තොරතුරු ඇතුළත් කර ඇත. ☺️`
+
+***
+#### Download Encoded Message [Click here](https://drive.google.com/file/d/1UsziH2aQ4sZvPDSqFxdztruc0274Zgw8/view?usp=drivesdk)
+
+***
+
